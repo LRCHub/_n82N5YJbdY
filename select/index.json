@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "顔役",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2025-12-28T18:47:28.394409Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "顔役",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/01_顔役_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "顔役 - Kaoyaku",
+      "artist": "Creepy Nuts",
+      "has_synced": false,
+      "path": "select/02_顔役_-_Kaoyaku_Creepy_Nuts.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "顔役",
+      "artist": "CreepyNuts",
+      "has_synced": false,
+      "path": "select/pl_01_顔役_CreepyNuts.txt"
+    }
+  ]
+}
